@@ -1,23 +1,23 @@
-# 1-vuex-modules
+# vuex starter
 
 ## Project setup
 ```
-yarn install
+yarn install or npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn serve or npm serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build or npm build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+yarn lint or npm lint
 ```
 
 ### Customize configuration
